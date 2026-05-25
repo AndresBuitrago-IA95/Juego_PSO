@@ -1,0 +1,6 @@
+{
+  "name": "Juego de Enjambre de Partículas (PSO)",
+  "description": "Un simulador y juego interactivo interactivo en español para aprender cómo funciona el algoritmo de Optimización por Enjambre de Partículas (PSO) ajustando velocidad, inercia y fuerzas sociales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
